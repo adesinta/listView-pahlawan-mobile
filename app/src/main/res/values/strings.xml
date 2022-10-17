@@ -14,7 +14,7 @@
         <item>Soekarno</item>
         <item>Supomo</item>
         <item>Ade Sinta_F55121062</item>
-<!--        <item>Tan Malaka</item>-->
+        <!--        <item>Tan Malaka</item>-->
     </string-array>
     <string-array name="data_description">
         <item>Salah seorang ulama dan khatib terkemuka di
@@ -30,7 +30,7 @@ meninggal di Lubang Buaya, Jakarta, 1 Oktober 1965 pada umur 43
 tahun) adalah komandan Tentara Nasional Indonesia Angkatan
 Darat, dan dibunuh oleh anggota Gerakan 30 September saat
 mencoba untuk menculik dia dari rumahnya.</item>
-        <item>>Sutomo (lahir di Surabaya, Jawa Timur, 3 Oktober
+        <item>Sutomo (lahir di Surabaya, Jawa Timur, 3 Oktober
 1920 – meninggal di Padang Arafah, Arab Saudi, 7 Oktober 1981
 pada umur 61 tahun) lebih dikenal dengan sapaan akrab oleh
 rakyat sebagai Bung Tomo, adalah pahlawan yang terkenal karena
@@ -104,13 +104,12 @@ Mohammad Hatta) yang terjadi pada tanggal 17 Agustus 1945.
 Soekarno adalah yang pertama kali mencetuskan konsep mengenai
 Pancasila sebagai dasar negara Indonesia dan ia sendiri yang
 menamainya.</item>
-        <item>Tan Malaka atau Ibrahim gelar Datuk Sutan Malaka
-(lahir di Nagari Pandam Gadang, Suliki, Lima Puluh Kota,
-Sumatera Barat, 2 Juni 1897 – meninggal di Desa Selopanggung,
-Kediri, Jawa Timur, 21 Februari 1949 pada umur 51 tahun) adalah
-seorang pembela kemerdekaan Indonesia, tokoh Partai Komunis
-Indonesia, juga pendiri Partai Murba, dan merupakan salah satu
-Pahlawan Nasional Indonesia.</item>
+        <item>Prof. Mr. Dr. Soepomo (Ejaan Soewandi: Supomo;
+lahir di Sukoharjo, Jawa Tengah, 22 Januari 1903 – meninggal di
+Jakarta, 12 September 1958 pada umur 55 tahun) adalah seorang
+pahlawan nasional Indonesia. Soepomo dikenal sebagai arsitek
+Undang-undang Dasar 1945, bersama dengan Muhammad Yamin dan
+Soekarno.</item>
         <item>Mahasiswa di Universitas Tadulako Fakultas Teknik
         Jurusan Teknologi Informasi, Program Studi S1-Teknik Informatika angkatan 2021.
         saat ini tinggal di Jl.Lagarutu 2. Lahir di Palu, pada tanggal 10 Agustus 2002.</item>
@@ -126,6 +125,6 @@ Pahlawan Nasional Indonesia.</item>
         <item>@drawable/sukarno</item>
         <item>@drawable/supomo</item>
         <item>@drawable/sinta</item>
-<!--        <item>@drawable/tan_malaka</item>-->
+        <!--        <item>@drawable/tan_malaka</item>-->
     </array>
 </resources>
